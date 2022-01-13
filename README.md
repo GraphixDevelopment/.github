@@ -48,7 +48,7 @@
 
 - [Network Discord](https://discord.gg/7HyUTnJvYE "Network Discord")
 
-- [E-mail](mailto:officialcodexnetwork@gmail.com?subject=Hi Bram "I contacted you via Github!")
+- [E-mail](mailto:officialcodexnetwork@gmail.com?subject=Hi "Hi!")
 
 Give a ⭐️ if you like our network!
 
