@@ -1,6 +1,6 @@
 # 🏢・Codex Network - Github
 
-![Codex Network](/banner.png "Codex Network")
+![Codex Network](/Codex_Banner_Blue_Github.png "Codex Network")
 
 ## 📘・About Me
 
