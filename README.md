@@ -4,10 +4,10 @@
 
 ## 📘・About Us
 
-- ✏┇We are a team of experienced graphic designers & developers
+- ✏┇Experienced graphic designers & developers
 - 📆┇Working on new projects on daily base
-- 🛒┇We have completed 100+ projects
-- 📺┇We have/had big projects that were very well known
+- 🛒┇Completed 150+ projects
+- 📺┇Works for Codex Network
 
 ## 📈・Stats
 
@@ -26,12 +26,13 @@
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="php" width="26px" src="https://pngimg.com/uploads/php/php_PNG43.png" /> <br />
 
-## 🤖・Our Projects
+## 🤖・Our Biggest Projects
 
-- [ ] [Dbot](https://discord.com/oauth2/authorize?client_id=798144456528363550&scope=bot&permissions=8 "Dbot")
-- [ ] [Codex (stopped)](https://codex-network.nl/error.html)
-- [ ] [In Huis](https://inhuiscvm.nl/ "In Huis")
-- [ ] [Live Clock](https://clock.codex-network.nl "Live Clock")
+- [ ] Dbot
+- [ ] Codex (stopped)
+- [ ] In Huis Website
+- [ ] Botscord Website
+- [ ] Live Clock
 
 ## ⏰・Working On
 
