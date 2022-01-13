@@ -44,7 +44,7 @@
 
 - [Website](https://codex-network.nl/ "Website")
 
-- [Discord](</Brammo>#1406 "Network Discord")
+- </Brammo>#1406
 
 - [Network Discord](https://discord.gg/7HyUTnJvYE "Network Discord")
 
