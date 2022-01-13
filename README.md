@@ -26,13 +26,12 @@
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="php" width="26px" src="https://pngimg.com/uploads/php/php_PNG43.png" /> <br />
 
-## 🤖・Our Biggest Projects
+## 🤖・Our Most Famous Workplaces
 
 - [ ] Dbot
-- [ ] Codex (stopped)
+- [ ] Codex Network
 - [ ] In Huis Website
-- [ ] Botscord Website
-- [ ] Live Clock
+- [ ] Spaceshop
 
 ## ⏰・Working On
 
