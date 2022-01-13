@@ -2,9 +2,9 @@
 
 ![Codex Network](/banner.png "Codex Network")
 
-## 📘・About Us
+## 📘・About Me
 
-- ✏┇Experienced graphic designers & developers
+- ✏┇Experienced graphic designer & developer
 - 📆┇Working on new projects on daily base
 - 🛒┇Completed 150+ projects
 - 📺┇Works for Codex Network
@@ -48,7 +48,7 @@
 
 - [Network Discord](https://discord.gg/7HyUTnJvYE "Network Discord")
 
-- [E-mail](mailto:officialcodexnetwork@gmail.com?subject=Hi "Hi!")
+- [E-mail](mailto:officialcodexnetwork@gmail.com?subject=Hi Bram "I contacted you via Github!")
 
 Give a ⭐️ if you like our network!
 
