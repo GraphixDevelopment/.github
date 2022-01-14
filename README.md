@@ -6,7 +6,7 @@
 
 - ✏┇Experienced graphic designer & developer
 - 📆┇Working on new projects on daily base
-- 🛒┇Completed 150+ projects
+- 🛒┇Completed 150+ orders
 - 📺┇Works for Codex Network
 
 ## 📈・Stats
@@ -26,11 +26,12 @@
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="php" width="26px" src="https://pngimg.com/uploads/php/php_PNG43.png" /> <br />
 
-## 🤖・Our Most Famous Workplaces
+## 🤖・My Most Famous Workplaces
 
 - [ ] Dbot
+- [ ] Dotwood.js
 - [ ] Codex Network
-- [ ] In Huis Website
+- [ ] In Huis
 - [ ] Spaceshop
 
 ## ⏰・Working On
