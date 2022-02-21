@@ -1,15 +1,15 @@
-# 🏢・Codex Network - Github
+# 🏢・Codex™ Network - Github
 
 ![Codex Network](/Codex_Banner_Blue_Github.png "Codex Network")
 
-## 📘・About Me
+## 📘・Over Mij
 
-- ✏┇Experienced graphic designer & developer
-- 📆┇Working on new projects on daily base
-- 🛒┇Completed 150+ orders
-- 📺┇Works for Codex Network
+- ✏┇Ervaren designer & developer 
+- 📆┇Werkt aan nieuwe projecten op dagelijkse basis
+- 🛒┇175+ bestellingen afgerond
+- 📺┇Werkt voor Codex™ Network
 
-## 📈・Stats
+## 📈・Statestieken
 
 <p align="left">
     <a href="https://github.com/OfficialCodexNetwork?tab=repositories" title="Profile">
@@ -18,7 +18,7 @@
 
 </p>
 
-# 💻・Languages 
+# 💻・Codeer Talen 
 <img align="left" alt="HTML" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" />
 <img align="left" alt="CSS" width="26px" src="https://www.pngkey.com/png/full/347-3470911_css3-html-css-js-logo-white.png" />
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
@@ -26,7 +26,7 @@
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="php" width="26px" src="https://pngimg.com/uploads/php/php_PNG43.png" /> <br />
 
-## 🤖・My Most Famous Workplaces
+## 🤖・Mijn bekenste werk plekken
 
 - [ ] Dbot
 - [ ] Dotwood.js
@@ -34,12 +34,9 @@
 - [ ] In Huis
 - [ ] Spaceshop
 
-## ⏰・Working On
+## ⏰・Werkt aan
 
-- [ ] Dbot Website
-- [ ] Admin Panel
-- [ ] Open Source Projects
-- [ ] Hosting Servers
+- [ ] Open Source Projecten
 
 ## 💼・Contact
 
