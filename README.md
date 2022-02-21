@@ -28,25 +28,28 @@
 
 ## 🤖・Mijn bekenste werk plekken
 
-- [ ] Dbot
-- [ ] Dotwood.js
-- [ ] Codex Network
+- [ ] Codex™ Network
+- [ ] Techpoint Network
 - [ ] In Huis
 - [ ] Spaceshop
+- [ ] Onbekenr
 
 ## ⏰・Werkt aan
 
 - [ ] Open Source Projecten
+- [ ] Dbot
+- [ ] Public Pterodactyl Bot
+- [ ] Minecraft Server
 
 ## 💼・Contact
 
 - [Website](https://codex-network.nl/ "Website")
 
-- &lt;/Brammo>#1406
+- Bramツ#1406
 
 - [Network Discord](https://discord.gg/7HyUTnJvYE "Network Discord")
 
-- [E-mail](mailto:officialcodexnetwork@gmail.com?subject=Hi "Hi!")
+- [E-mail](mailto:info@codex-network.nl?subject=Hey "Hey")
 
-Give a ⭐️ if you like our network!
+Geef een ⭐️ als je ons netwerk leuk vind!
 
