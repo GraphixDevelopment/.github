@@ -1,6 +1,6 @@
 # 🏢・Codex™ Network - Github
 
-![Codex Network](/Codex_Banner_Blue_Github.png "Codex Network")
+![Codex™ Network](/Codex_Banner_Blue_Github.png "Codex™ Network")
 
 ## 📘・Over Mij
 
@@ -49,7 +49,7 @@
 
 - [Network Discord](https://discord.gg/7HyUTnJvYE "Network Discord")
 
-- [E-mail](mailto:info@codex-network.nl?subject=Hey "Hey")
+- [E-mail](mailto:info@codex-network.nl?subject=Codex™ Network - Github "Hallo!")
 
 Geef een ⭐️ als je ons netwerk leuk vind!
 
