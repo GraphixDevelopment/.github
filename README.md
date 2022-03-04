@@ -49,7 +49,7 @@
 
 - [Network Discord](https://discord.gg/7HyUTnJvYE "Network Discord")
 
-- [E-mail](mailto:info@codex-network.nl?subject=Codex™ Network - Github "Hallo!")
+- [E-mail](mailto:info@codex-network.nl?subject=Hallo "Hallo!")
 
 Geef een ⭐️ als je ons netwerk leuk vind!
 
