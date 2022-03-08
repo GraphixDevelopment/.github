@@ -35,7 +35,7 @@
 
 - [ ] Open Source Projecten
 - [ ] Dbot & Dbot 2
-- [ ] Public Pterodactyl Bot
+- [ ] Public Pterodactyl Discord Bot
 - [ ] Minecraft Server
 
 ## 💼・Contact
