@@ -1,19 +1,18 @@
-# 🏢・Codex™ Network - Github
+# 📌・Graphix™ Development - Github
 
-![Codex™ Network](/Codex_Banner_Blue_Github.png "Codex™ Network")
+![Graphix™ Development](/Codex_Banner_Blue_Github.png "Graphix™ Development")
 
 ## 📘・Over Mij
 
 - 👔┇Ervaren designer & developer 
 - 📆┇Werkt aan nieuwe projecten op dagelijkse basis
 - 🛒┇175+ bestellingen afgerond
-- 📁┇ Werkt voor Codex™ Network
 
 ## 📈・Statestieken
 
 <p align="left">
-    <a href="https://github.com/OfficialCodexNetwork?tab=repositories" title="Profile">
-        <img src="https://github-readme-stats.vercel.app/api?username=OfficialCodexNetwork&show_icons=true&theme=graywhite&border_color=aaa&custom_title=My%20GitHub%20Stats&border_radius=25" alt="Github Stats" />
+    <a href="https://github.com/GraphixDevelopment?tab=repositories" title="Profile">
+        <img src="https://github-readme-stats.vercel.app/api?username=GraphixDevelopment&show_icons=true&theme=graywhite&border_color=aaa&custom_title=My%20GitHub%20Stats&border_radius=25" alt="Github Stats" />
     </a>
 
 </p>
@@ -28,28 +27,27 @@
 
 ## 🤖・Mijn bekenste werk plekken
 
-- [ ] Codex™ Network
+- [ ] Codex Community
 - [ ] Techpoint Network
 - [ ] In Huis
 - [ ] Spaceshop
-- [ ] Onbekenr
 
 ## ⏰・Werkt aan
 
 - [ ] Open Source Projecten
-- [ ] Dbot
+- [ ] Dbot & Dbot 2
 - [ ] Public Pterodactyl Bot
 - [ ] Minecraft Server
 
 ## 💼・Contact
 
-- [Website](https://codex-network.nl/ "Website")
+- [Website](https://graphix-development.nl/ "Website")
 
 - Bramツ#1983
 
-- [Network Discord](https://discord.gg/7HyUTnJvYE "Network Discord")
+- [Network Discord](https://discord.gg/7HyUTnJvYE "Discord Server")
 
-- [E-mail](mailto:info@codex-network.nl?subject=Hallo "Hallo!")
+- [E-mail](mailto:info@graphix-development.nl?subject=Hallo "Hallo!")
 
 Geef een ⭐️ als je ons netwerk leuk vind!
 
