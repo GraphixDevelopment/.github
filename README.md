@@ -48,5 +48,5 @@
 
 - [E-mail](mailto:info@graphix-development.nl?subject=Hallo "Hallo!")
 
-Geef een ⭐️ als je ons netwerk leuk vind!
+Geef een ⭐️ als je dit bericht interessant vind!
 
