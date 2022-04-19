@@ -25,7 +25,7 @@
 ## 🤖・Mijn bekenste werken
 - [ ] Codex Lounge
 - [ ] Techpoint 
-- [ ] Dbot Dashboard 
+- [ ] Dbot & Dbot 2 
 - [ ] In Huis
 
 ## ⏰・Werkt aan
