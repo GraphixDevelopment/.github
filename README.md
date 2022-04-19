@@ -1,7 +1,5 @@
 # 📌・Graphix™ Development - Github
 
-## 📘・Over Mij
-
 - 👔┇Ervaren designer & developer 
 - 📆┇Werkt aan nieuwe projecten op dagelijkse basis
 - 🛒┇175+ bestellingen afgerond
