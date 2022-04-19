@@ -1,7 +1,5 @@
 # 📌・Graphix™ Development - Github
 
-![Graphix™ Development](/Codex_Banner_Blue_Github.png "Graphix™ Development")
-
 ## 📘・Over Mij
 
 - 👔┇Ervaren designer & developer 
