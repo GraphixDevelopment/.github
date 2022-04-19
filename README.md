@@ -23,11 +23,6 @@
 
 ## 
 
-- [ ] Open Source Projecten
-- [ ] Dbot & Dbot 2
-- [ ] Public Pterodactyl Discord Bot
-- [ ] Minecraft Server
-
 ## 🤖・Mijn bekenste werken
 
 - [ ] Codex Community
