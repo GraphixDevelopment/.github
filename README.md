@@ -20,21 +20,19 @@
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
 <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
-<img align="left" alt="php" width="26px" src="https://pngimg.com/uploads/php/php_PNG43.png" /> <br />
 
 ## 🤖・Mijn bekenste werken
 
-- [ ] Codex Community
-- [ ] Techpoint Network
+- [ ] Codex Lounge
+- [ ] Techpoint 
+- [ ] Dbot Dashboard 
 - [ ] In Huis
-- [ ] Spaceshop
 
 ## ⏰・Werkt aan
 
 - [ ] Open Source Projecten
-- [ ] Dbot & Dbot 2
+- [ ] Dbot Dashboard
 - [ ] Public Pterodactyl Discord Bot
-- [ ] Minecraft Server
 
 ## 💼・Contact
 
@@ -42,7 +40,7 @@
 
 - Bramツ#1983
 
-- [Network Discord](https://discord.gg/7HyUTnJvYE "Discord Server")
+- [Discord Server](https://discord.graphix-development.nl/ "Discord Server")
 
 - [E-mail](mailto:info@graphix-development.nl?subject=Hallo "Hallo!")
 
