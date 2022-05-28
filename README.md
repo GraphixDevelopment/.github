@@ -21,6 +21,7 @@
 <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="java" width="26px" src="https://brandlogos.net/wp-content/uploads/2021/11/java-logo-512x512.png" />
+<p>&nbsp;</p> 
 
 ## 🤖・Mijn bekenste werken
 
