@@ -33,14 +33,15 @@
 ## ⏰・Werkt aan
 
 - [ ] Open Source Projecten
-- [ ] Dbot Dashboard
-- [ ] Public Pterodactyl Discord Bot
+- [ ] Publieke Discord Bot
+- [ ] Samenwerkingen
+- [ ] Mijn Bedrijf
 
 ## 💼・Contact
 
 - [Website](https://graphix-development.nl/ "Website")
 
-- Bramツ#1983
+- Bram. ツ#1983
 
 - [Discord Server](https://discord.graphix-development.nl/ "Discord Server")
 
