@@ -22,7 +22,6 @@
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="express" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" />
 
-<br>
 ## 🤖・Mijn bekenste werken
 - [ ] Codex Lounge
 - [ ] Techpoint 
