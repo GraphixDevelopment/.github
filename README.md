@@ -20,7 +20,7 @@
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
 <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
-<img align="left" alt="java" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" />
+<img align="left" alt="java" width="26px" src="https://brandlogos.net/wp-content/uploads/2021/11/java-logo-512x512.png" />
 
 ## 🤖・Mijn bekenste werken
 - [ ] Codex Lounge
