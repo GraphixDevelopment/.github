@@ -1,10 +1,10 @@
 # 📌・Graphix™ Development - Github
 
-- 👔┇Ervaren designer & developer 
-- 📆┇Werkt aan nieuwe projecten op dagelijkse basis
-- 🛒┇175+ bestellingen afgerond
+- Ervaren designer & developer 
+- Werkt aan nieuwe projecten op dagelijkse basis
+- 175+ bestellingen afgerond
 
-## 📈・Statestieken
+## 📈 Statestieken
 
 <p align="left">
     <a href="https://github.com/GraphixDevelopment?tab=repositories" title="Profile">
@@ -13,7 +13,7 @@
 
 </p>
 
-## 💻・Codeer Talen 
+## 💻 Codeer Talen 
 
 <img align="left" alt="HTML" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" />
 <img align="left" alt="CSS" width="26px" src="https://www.pngkey.com/png/full/347-3470911_css3-html-css-js-logo-white.png" />
@@ -23,21 +23,21 @@
 <img align="left" alt="php" width="26px" src="https://brandslogos.com/wp-content/uploads/thumbs/php-logo-vector.svg" />
 <p>&nbsp;</p> 
 
-## 🤖・Mijn bekenste werken
+## 🤖 Mijn bekenste werken
 
 - [ ] Codex Lounge
 - [ ] Techpoint 
 - [ ] Dbot & Dbot 2 
 - [ ] In Huis
 
-## ⏰・Werkt aan
+## ⏰ Werkt aan
 
 - [ ] Open Source Projecten
 - [ ] Publieke Discord Bot
 - [ ] Samenwerkingen
 - [ ] Mijn Bedrijf
 
-## 💼・Contact
+## 💼 Contact
 
 - [Website](https://graphix-development.nl/ "Website")
 
