@@ -29,5 +29,7 @@
 * 💻 Website: [Graphix Development](https://graphix-development.nl/)
 * 📨 E-mail: info@graphix-development.nl
 
+![Graphix Development](/banner.png "Graphix Development")
+
 Geef een ⭐️ als je dit bericht interessant vind!
 
