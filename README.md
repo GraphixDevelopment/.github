@@ -5,12 +5,7 @@
 - 🪴 Leert nieuwe dingen op dagelijkse basis
 - 🛒 Meer dan 200+ bestellingen afgerond
 
-<p align="left">
-    <a href="https://github.com/GraphixDevelopment?tab=repositories" title="Profile">
-        <img src="https://github-readme-stats.vercel.app/api?username=GraphixDevelopment&show_icons=true&theme=graywhite&border_color=aaa&custom_title=My%20GitHub%20Stats&border_radius=25" alt="Github Stats" />
-    </a>
-
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=GraphixDevelopment&show_icons=true" />
 
 ## Codeer Talen 
 
