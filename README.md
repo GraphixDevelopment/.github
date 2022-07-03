@@ -1,8 +1,9 @@
-# 📌・Graphix™ Development - Github
+# Introductie
 
-- Ervaren designer & developer 
-- Werkt aan nieuwe projecten op dagelijkse basis
-- 175+ bestellingen afgerond
+- 👑 Eigenaar van Graphix™ Development
+- 🔧 Ervaren designer & developer 
+- 🪴 Leert nieuwe dingen op dagelijkse basis
+- 🛒 Meer dan 200+ bestellingen afgerond
 
 ## 📈 Statestieken
 
