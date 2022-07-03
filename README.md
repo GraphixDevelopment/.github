@@ -1,9 +1,9 @@
 # Introductie
 
-👑 Eigenaar van Graphix™ Development
-🔧 Ervaren designer & developer 
-🪴 Leert nieuwe dingen op dagelijkse basis
-🛒 Meer dan 200+ bestellingen afgerond
+- 👑 Eigenaar van Graphix™ Development
+- 🔧 Ervaren designer & developer 
+- 🪴 Leert nieuwe dingen op dagelijkse basis
+- 🛒 Meer dan 200+ bestellingen afgerond
 
 ## Codeer Talen 
 
