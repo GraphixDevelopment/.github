@@ -28,6 +28,7 @@
 
 * 💻 Website: [Graphix Development](https://graphix-development.nl/)
 * 📨 E-mail: [info@graphix-development.nl](mailto:info@graphix-development.nl?SUBJECT=Github Contact)
+* 📨 E-mail: info@graphix-development.nl
 
 Geef een ⭐️ als je dit bericht interessant vind!
 
