@@ -5,7 +5,7 @@
 🪴 Leert nieuwe dingen op dagelijkse basis
 🛒 Meer dan 200+ bestellingen afgerond
 
-## 💻 Codeer Talen 
+## Codeer Talen 
 
 <img align="left" alt="HTML" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" />
 <img align="left" alt="CSS" width="26px" src="https://www.pngkey.com/png/full/347-3470911_css3-html-css-js-logo-white.png" />
@@ -24,29 +24,10 @@
 
 </p>
 
-## 🤖 Mijn bekenste werken
+## Contact
 
-- [ ] Codex Lounge
-- [ ] Techpoint 
-- [ ] Dbot & Dbot 2 
-- [ ] In Huis
-
-## ⏰ Werkt aan
-
-- [ ] Open Source Projecten
-- [ ] Publieke Discord Bot
-- [ ] Samenwerkingen
-- [ ] Mijn Bedrijf
-
-## 💼 Contact
-
-- [Website](https://graphix-development.nl/ "Website")
-
-- Bram. ツ#1983
-
-- [Discord Server](https://discord.graphix-development.nl/ "Discord Server")
-
-- [E-mail](mailto:info@graphix-development.nl?subject=Hallo "Hallo!")
+* 💻 Website: [Graphix Development](https://graphix-development.nl/)
+* 📨 E-mail: [info@graphix-development.nl](mailto:info@graphix-development.nl?SUBJECT=Github Contact)
 
 Geef een ⭐️ als je dit bericht interessant vind!
 
