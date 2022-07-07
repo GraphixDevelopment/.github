@@ -28,4 +28,4 @@
 * 💻 Website: [graphix-development.nl](https://graphix-development.nl/contact)
 * 📨 E-mail: info@graphix-development.nl
 
-Wil je meer van mij zien? Volg mij dan en zo kom je meer leuke dingen te zien 🤩!
+Wil je meer van mij zien? Volg mij dan en blijf op de hoogte! 🤩
