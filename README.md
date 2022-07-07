@@ -3,7 +3,7 @@
 - 👑 Eigenaar van Graphix™ Development
 - 🔧 Ervaren designer & developer 
 - 📚 Leert nieuwe dingen op dagelijkse basis
-- 🛒 Meer dan 200+ bestellingen afgerond
+- 💻 150+ mensen geholpen met hun projecten
 
 <img src="https://github-readme-stats.vercel.app/api?username=GraphixDevelopment&show_icons=true" />
 
