@@ -7,7 +7,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=GraphixDevelopment&show_icons=true" />
 
-## Codeer Talen 
+## Welke talen codeer ik?
 
 <img align="left" alt="HTML" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" />
 <img align="left" alt="CSS" width="26px" src="https://www.pngkey.com/png/full/347-3470911_css3-html-css-js-logo-white.png" />
