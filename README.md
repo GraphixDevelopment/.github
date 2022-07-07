@@ -16,6 +16,8 @@
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <p>&nbsp;</p> 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contact
 
 * 💻 Website: [Graphix Development](https://graphix-development.nl/)
