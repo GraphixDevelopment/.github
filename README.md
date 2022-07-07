@@ -17,6 +17,7 @@
 <p>&nbsp;</p> 
 
 ## Mijn Socials
+
 * 📸 Instagram: [@graphix.development](https://www.instagram.com/graphix.development/)
 * 🎥 Facebook: [@graphixdev](https://www.facebook.com/graphixdev)
 * 🕊️ Twitter: [@GraphixDevelop1](https://twitter.com/GraphixDevelop1)
