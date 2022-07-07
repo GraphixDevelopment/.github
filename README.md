@@ -17,9 +17,15 @@
 <p>&nbsp;</p> 
 <p>&nbsp;</p> 
 
+## Mijn Socials
+* Instagram: [@graphix.development](https://www.instagram.com/graphix.development/)
+* Facebook: [@graphixdev](https://www.facebook.com/graphixdev)
+* Twitter:
+* Linkedin: 
+
 ## Contact
 
-* 💻 Website: [Graphix Development](https://graphix-development.nl/)
+* 💻 Website: [graphix-development.nl](https://graphix-development.nl/contact)
 * 📨 E-mail: info@graphix-development.nl
 
 Wil je meer van mij zien? Volg mij dan en zo kom je meer leuke dingen te zien 🤩!
