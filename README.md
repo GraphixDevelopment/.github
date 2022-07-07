@@ -21,7 +21,7 @@
 * Instagram: [@graphix.development](https://www.instagram.com/graphix.development/)
 * Facebook: [@graphixdev](https://www.facebook.com/graphixdev)
 * Twitter: [@GraphixDevelop1](https://twitter.com/GraphixDevelop1)
-* Linkedin: (https://www.linkedin.com/in/bram-de-boer-53a267240/)
+* Linkedin: [@bram-de-boer-53a267240](https://www.linkedin.com/in/bram-de-boer-53a267240/)
 
 ## Contact
 
