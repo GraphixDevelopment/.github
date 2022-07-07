@@ -16,7 +16,7 @@
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <p>&nbsp;</p> 
 
-## Mijn Socials
+## Socials
 
 * 📸 Instagram: [@graphix.development](https://www.instagram.com/graphix.development/)
 * 🎥 Facebook: [@graphixdev](https://www.facebook.com/graphixdev)
