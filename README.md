@@ -17,8 +17,6 @@
 <p>&nbsp;</p> 
 <p>&nbsp;</p> 
 
-[![Graphix Development](https://github-readme-stats.vercel.app/api/top-langs/?username=GraphixDevelopment&layout=compact)](https://github.com/GraphixDevelopment/GraphixDevelopment)
-
 ## Contact
 
 * 💻 Website: [Graphix Development](https://graphix-development.nl/)
