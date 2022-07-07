@@ -1,4 +1,4 @@
-# Introductie
+# Introductie <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 - 👑 Eigenaar van Graphix™ Development
 - 🔧 Ervaren designer & developer 
@@ -14,7 +14,6 @@
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
 <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
-<p>&nbsp;</p> 
 <p>&nbsp;</p> 
 
 ## Mijn Socials
