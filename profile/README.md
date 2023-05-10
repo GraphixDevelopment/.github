@@ -1,9 +1,8 @@
-# Introductie <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+# Welkom bij Graphix Development <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-- 👑 Eigenaar van Graphix™ Development
-- 🔧 Ervaren designer & developer 
-- 📚 Leert nieuwe dingen op dagelijkse basis
-- 💻 150+ mensen geholpen met hun projecten
+- 🔧 Ervaren op gebied van design, development en video-editing
+- 📚 Op dagelijkse basis word gewerkt aan het opdoen van nieuwe kennis
+- 💻 Met meer dan 150+ mensen geholpen met hun projecten
 
 <img src="https://github-readme-stats.vercel.app/api?username=GraphixDevelopment&show_icons=true" />
 
