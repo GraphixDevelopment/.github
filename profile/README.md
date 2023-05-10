@@ -4,23 +4,25 @@
 - 📚 Op dagelijkse basis word gewerkt aan het opdoen van nieuwe kennis
 - 💻 Met meer dan 150+ mensen geholpen met hun projecten
 
-<img src="https://github-readme-stats.vercel.app/api?username=GraphixDevelopment&show_icons=true" />
-
-## Codeer Talen
+## Ervaring met 
 
 <img align="left" alt="HTML" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" />
 <img align="left" alt="CSS" width="26px" src="https://www.pngkey.com/png/full/347-3470911_css3-html-css-js-logo-white.png" />
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
 <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
+<img align="left" alt="php" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" />
+<img align="left" alt="reactjs" width="26px" src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" />
+<img align="left" alt="tailwind" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" />
+
 <p>&nbsp;</p> 
 
 ## Socials
 
 * 📸 Instagram: [@graphix.development](https://www.instagram.com/graphix.development/)
 * 🎥 Facebook: [@graphixdev](https://www.facebook.com/graphixdev)
-* 🕊️ Twitter: [@GraphixDevelop1](https://twitter.com/GraphixDevelop1)
 * 🔗 Linkedin: [@bram-de-boer-53a267240](https://www.linkedin.com/in/bram-de-boer-53a267240/)
+* 💻 Discord: [@Bram#0872](https://discord.graphix-development.nl/)
 
 ## Contact
 
