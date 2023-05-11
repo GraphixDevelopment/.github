@@ -4,16 +4,27 @@
 - 📚 Op dagelijkse basis word gewerkt aan het opdoen van nieuwe kennis
 - 💻 Met meer dan 150+ mensen geholpen met hun projecten
 
-## Ervaring met 
+# Progameer Talen
+<p> 
+   <img alt="HTML" src="https://img.shields.io/badge/html-%23e44d25.svg?style=for-the-badge&logo=html5&logoColor=white">
+  &emsp;
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-%23264de4.svg?style=for-the-badge&logo=css3&logoColor=white">
+  &emsp;
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
+  &emsp;
+    <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%23777bb3.svg?style=for-the-badge&logo=php&logoColor=white">
+  &emsp;
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  &emsp;
+    <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+</p>
 
-<img align="left" alt="HTML" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" />
-<img align="left" alt="CSS" width="26px" src="https://www.pngkey.com/png/full/347-3470911_css3-html-css-js-logo-white.png" />
-<img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
-<img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
-<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
-<img align="left" alt="php" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" />
-<img align="left" alt="reactjs" width="26px" src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" />
-<img align="left" alt="tailwind" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" />
+# Programmeer Frameworks
+<p> 
+  <img alt="React" src="https://img.shields.io/badge/-React.js-61dafb?style=for-the-badge&logo=react&logoColor=black">
+  &emsp;
+   <img alt="React" src="https://img.shields.io/badge/-Tailwind.css-07b6d5?style=for-the-badge&logo=tailwindcss&logoColor=black">
+</p>
 
 <p>&nbsp;</p> 
 
