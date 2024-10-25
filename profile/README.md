@@ -24,6 +24,8 @@
   <img alt="React" src="https://img.shields.io/badge/-React.js-61dafb?style=for-the-badge&logo=react&logoColor=black">
   &emsp;
    <img alt="React" src="https://img.shields.io/badge/-Tailwind.css-07b6d5?style=for-the-badge&logo=tailwindcss&logoColor=black">
+     &emsp;
+   <img alt="React" src="https://img.shields.io/badge/-Next.js-07b6d5?style=for-the-badge&logo=tailwindcss&logoColor=black">
 </p>
 
 ## Socials
